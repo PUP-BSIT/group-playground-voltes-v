@@ -39,6 +39,7 @@ def gullesmenu():
                 print("-----------------------------------------------------")
             case 6:
                 print("Comment From Pineda")
+                print("Great job,! Your logic is solid.")
                 print("-----------------------------------------------------")
             case 7:
                 print("Exiting Gulles Menu")
