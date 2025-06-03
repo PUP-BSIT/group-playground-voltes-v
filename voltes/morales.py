@@ -36,6 +36,7 @@ def gulles_menu():
                 print("-----------------------------------------------------")
             case 5:
                 print("Comment From Morales")
+                print("MAKAKAPASA KA SA IPT SUBJECT<333")
                 print("-----------------------------------------------------")
             case 6:
                 print("Comment From Pineda")
