@@ -33,7 +33,8 @@ def caculitan_menu():
                 print("• Goal 5: To be a successful in life")
                 print("-----------------------------------------------------")
             case 3:
-                print("Comment From Caculitan")
+                print("Comment From Gulles")
+                print("YOU WILL GRADUATE ON TIME")
                 print("-----------------------------------------------------")
             case 4:
                 print("Comment From Corpus")

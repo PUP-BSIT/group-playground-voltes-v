@@ -38,6 +38,7 @@ def corpus_menu():
                 print("-----------------------------------------------------")
             case 4:
                 print("Comment From Gulles")
+                print("YOU WILL GRADUATE ON TIME")
                 print("-----------------------------------------------------")
             case 5:
                 print("Comment From Morales")
