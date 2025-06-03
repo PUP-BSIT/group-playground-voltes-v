@@ -27,7 +27,8 @@ while choice !=6:
         case 4:
            print("Input Morales Module")
         case 5:
-           print("Input Pineda Module")
+            import voltes.pineda
+            voltes.pineda.pineda_menu()
         case 6:
             print("Exiting Voltes V Modules")
             print("-----------------------------------------------------")
