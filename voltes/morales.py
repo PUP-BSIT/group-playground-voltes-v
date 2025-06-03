@@ -38,6 +38,7 @@ def morales_menu():
                 print("-----------------------------------------------------")
             case 5:
                 print("Comment From Gulles")
+                print(" YOU WILL GRADUATE ON TIME!")
                 print("-----------------------------------------------------")
             case 6:
                 print("Comment From Pineda")
